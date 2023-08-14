@@ -125,15 +125,6 @@
       "description": "Childhood friends Julianne Potter (Julia Roberts) and Michael O'Neal (Dermot Mulroney) had a deal to marry each other if they were still single by age 28. Now, four days before her 28th birthday, O'Neil announces that he's marrying a gorgeous 20-year-old named Kimberly (Cameron Diaz). Suddenly realizing that she's actually in love with him, Julianne vows to stop the wedding at all costs. However, when she is appointed maid of honor, things get even more complex.",
       "genre": "romance",
       "ticketPrice": 8.99
-    },
-    {
-      "id": 15,
-      "title": "movie title goes here",
-      "image": "image url goes here",
-      "rating": "movie rating goes here",
-      "description": "movie description goes here",
-      "genre": "thriller/horror",
-      "ticketPrice": 2.99
     }
   ]
 }
