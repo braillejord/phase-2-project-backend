@@ -47,6 +47,87 @@
     },
     {
       "id": 6,
+      "title": "Bringing Down the House",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTUyMTM2MjMwOF5BMl5BanBnXkFtZTYwOTA0Mzk2._V1_.jpg",
+      "rating": "PG-13",
+      "description": "Lawyer Peter Sanderson (Steve Martin) wants to dive back into dating after his divorce and has a hard time meeting the right women. But he lucks out with online dating and meets a fellow lawyer. The two agree to meet in the flesh, but the woman he meets -- an escaped convict named Charlene (Queen Latifah) -- is not what he expected. Peter is freaked out, but Charlene convinces him to take her case and prove her innocence, and along the way they learn to become friends.",
+      "genre": "comedy",
+      "ticketPrice": 5.99
+    },
+    {
+      "id": 7,
+      "title": "A Quiet Place",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_FMjpg_UX1000_.jpg",
+      "rating": "PG-13",
+      "description": "If they hear you, they hunt you. A family must live in silence to avoid mysterious creatures that hunt by sound. Knowing that even the slightest whisper or footstep can bring death, Evelyn and Lee are determined to find a way to protect their children while desperately searching for a way to fight back.",
+      "genre": "thriller/horror",
+      "ticketPrice": 9.99
+    },
+    {
+      "id": 8,
+      "title": "Pitch Black",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTNmYzE1OWYtZDdjNC00OTdhLTg1YjUtYWJlZTVkMzkzNmVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+      "rating": "R",
+      "description": "A deep space transporter crash-lands on a desolate planet circled by three suns. Among the survivors are pilot Carolyn Fry, mystic Abu `Imam' al-Walid, cop William J Johns and convicted criminal Richard B Riddick, and their first thoughts are of survival and escape. Then Fry finds out that the planet suffers a total eclipse every 22 years, which is when the hibernating, flesh-eating inhabitants awake and hunt.",
+      "genre": "thriller/horror",
+      "ticketPrice": 3.99
+    },
+    {
+      "id": 9,
+      "title": "2 Fast 2 Furious",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzExYjcyYWMtY2JkOC00NDUwLTg2OTgtMDI3MGY2OWQzMDE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+      "rating": "PG-13",
+      "description": "This sequel focuses on ex-police officer Brian O'Conner (Paul Walker), who relocates from Los Angeles to Miami to start over. Becoming involved in the street-racing scene in his new city, Brian befriends car-savvy Tej (Chris "Ludacris" Bridges) and Suki (Devon Aoki), but his competitive streak ends when federal agents apprehend him and he must enter into a deal with the FBI. Working with new partner Roman Pearce (Tyrese), Brian begins a dangerous mission to take down a powerful drug dealer.",
+      "genre": "action/adventure",
+      "ticketPrice": 1.99
+    },
+    {
+      "id": 10,
+      "title": "Taken",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDA0ODYzZGMtOGI3ZS00YTdjLTk0ZjEtYzA0Zjg3MDM4OTA4XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg",
+      "rating": "PG-13",
+      "description": "Bryan Mills (Liam Neeson), a former government operative, is trying to reconnect with his daughter, Kim (Maggie Grace). Then his worst fears become real when sex slavers abduct Kim and her friend shortly after they arrive in Paris for vacation. With just four days until Kim will be auctioned off, Bryan must call on every skill he learned in black ops to rescue her.",
+      "genre": "action/adventure",
+      "ticketPrice": 7.99
+    },
+    {
+      "id": 11,
+      "title": "The Flash",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDFhZTc3NWQtY2UyZS00OGYzLTgxNTUtYjYxMjZjMmEyMjcwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+      "rating": "PG-13",
+      "description": "Worlds collide when the Flash uses his superpowers to travel back in time to change the events of the past. However, when his attempt to save his family inadvertently alters the future, he becomes trapped in a reality in which General Zod has returned, threatening annihilation. With no other superheroes to turn to, the Flash looks to coax a very different Batman out of retirement and rescue an imprisoned Kryptonian -- albeit not the one he's looking for.",
+      "genre": "family",
+      "ticketPrice": 1.99
+    },
+    {
+      "id": 12,
+      "title": "Black Panther: Wakanda Forever",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTM4NjIxNmEtYWE5NS00NDczLTkyNWQtYThhNmQyZGQzMjM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+      "rating": "PG-13",
+      "description": "Queen Ramonda, Shuri, M'Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T'Challa's death. As the Wakandans strive to embrace their next chapter, the heroes must band together with Nakia and Everett Ross to forge a new path for their beloved kingdom.",
+      "genre": "family",
+      "ticketPrice": 6.99
+    },
+    {
+      "id": 13,
+      "title": "50 First Dates",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAwMzc4MDgxNF5BMl5BanBnXkFtZTYwNjUwMzE3._V1_FMjpg_UX1000_.jpg",
+      "rating": "PG-13",
+      "description": "Playboy vet Henry sets his heart on romancing Lucy, but she has short-term memory loss; she can't remember anything that happened the day before. So every morning, Henry has to woo her again. Her friends and family are very protective, and Henry must convince them that he's in it for love.",
+      "genre": "romance",
+      "ticketPrice": 4.99
+    },
+    {
+      "id": 14,
+      "title": "My Best Friend's Wedding",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzRiMGE2MmMtM2RhMy00OWNiLTljYTktOThmMmE1YjY1NjYyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "rating": "PG-13",
+      "description": "Childhood friends Julianne Potter (Julia Roberts) and Michael O'Neal (Dermot Mulroney) had a deal to marry each other if they were still single by age 28. Now, four days before her 28th birthday, O'Neil announces that he's marrying a gorgeous 20-year-old named Kimberly (Cameron Diaz). Suddenly realizing that she's actually in love with him, Julianne vows to stop the wedding at all costs. However, when she is appointed maid of honor, things get even more complex.",
+      "genre": "romance",
+      "ticketPrice": 8.99
+    },
+    {
+      "id": 15,
       "title": "movie title goes here",
       "image": "image url goes here",
       "rating": "movie rating goes here",
